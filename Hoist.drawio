@@ -1,9 +1,141 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Page-1" id="Z_c05S01fYnt91s4_1Vi">
-    <mxGraphModel>
+    <mxGraphModel dx="1237" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="360" width="280" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-9" value="Microbiology" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1UfZBbdqKV6xbF1u5Tu_-17">
+          <mxGeometry width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-10" value="Protein Lab&lt;br&gt;&lt;div&gt;ON/OFF&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1UfZBbdqKV6xbF1u5Tu_-17">
+          <mxGeometry x="10" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-11" value="&lt;div&gt;Registration&lt;/div&gt;&lt;div&gt;ON/OFF&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1UfZBbdqKV6xbF1u5Tu_-17">
+          <mxGeometry x="145" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-12" value="Confirmation&lt;br&gt;ON/OFF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1UfZBbdqKV6xbF1u5Tu_-17">
+          <mxGeometry x="10" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-22" value="&lt;div&gt;- Browser (Chromium)&lt;/div&gt;&lt;div&gt;- Frontend (Leptos - CSR)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1UfZBbdqKV6xbF1u5Tu_-17">
+          <mxGeometry y="170" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="285" y="30" width="275" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-19" value="" style="group" vertex="1" connectable="0" parent="1UfZBbdqKV6xbF1u5Tu_-21">
+          <mxGeometry width="275" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-1" value="Registration" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1UfZBbdqKV6xbF1u5Tu_-19">
+          <mxGeometry width="275" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-6" value="Protein Lab&lt;br&gt;ON/OFF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1UfZBbdqKV6xbF1u5Tu_-19">
+          <mxGeometry x="10" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-7" value="Microbiology&lt;br&gt;ON/OFF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1UfZBbdqKV6xbF1u5Tu_-19">
+          <mxGeometry x="145" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-8" value="Confirmation&lt;br&gt;ON/OFF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1UfZBbdqKV6xbF1u5Tu_-19">
+          <mxGeometry x="10" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-20" value="&lt;div&gt;- Database (Redis)&lt;br&gt;- Websocket Server (Axum)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1UfZBbdqKV6xbF1u5Tu_-21">
+          <mxGeometry y="170" width="275" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-24" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="520" y="360" width="280" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-18" value="" style="group" vertex="1" connectable="0" parent="1UfZBbdqKV6xbF1u5Tu_-24">
+          <mxGeometry width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-13" value="Protein Lab" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1UfZBbdqKV6xbF1u5Tu_-18">
+          <mxGeometry width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-14" value="&lt;div&gt;Microbiology&lt;/div&gt;&lt;div&gt;ON/OFF&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1UfZBbdqKV6xbF1u5Tu_-18">
+          <mxGeometry x="10" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-15" value="Registration&lt;br&gt;ON/OFF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1UfZBbdqKV6xbF1u5Tu_-18">
+          <mxGeometry x="145" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-16" value="Confirmation&lt;br&gt;ON/OFF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1UfZBbdqKV6xbF1u5Tu_-18">
+          <mxGeometry x="10" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-23" value="&lt;div&gt;- Browser (Chromium)&lt;/div&gt;&lt;div&gt;- Frontend (Leptos - CSR)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1UfZBbdqKV6xbF1u5Tu_-24">
+          <mxGeometry y="170" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="1080" as="sourcePoint" />
+            <mxPoint x="120" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-32" value="Client" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1UfZBbdqKV6xbF1u5Tu_-30">
+          <mxGeometry x="0.57" y="1" relative="1" as="geometry">
+            <mxPoint y="-116" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="1080" as="sourcePoint" />
+            <mxPoint x="360" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-33" value="Server" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1UfZBbdqKV6xbF1u5Tu_-31">
+          <mxGeometry x="0.41" relative="1" as="geometry">
+            <mxPoint x="-5" y="-148" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="720" as="sourcePoint" />
+            <mxPoint x="360" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-35" value="&lt;div&gt;On Connect:&lt;/div&gt;&lt;div&gt;Request State&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1UfZBbdqKV6xbF1u5Tu_-34">
+          <mxGeometry x="-0.35" relative="1" as="geometry">
+            <mxPoint x="32" y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="760" as="sourcePoint" />
+            <mxPoint x="120" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-37" value="&lt;div&gt;Response:&lt;/div&gt;&lt;div&gt;State&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1UfZBbdqKV6xbF1u5Tu_-36">
+          <mxGeometry x="0.0583" y="2" relative="1" as="geometry">
+            <mxPoint y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="820" as="sourcePoint" />
+            <mxPoint x="360" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-39" value="Button for Protein Lab is pressed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1UfZBbdqKV6xbF1u5Tu_-38">
+          <mxGeometry x="-0.0917" y="-4" relative="1" as="geometry">
+            <mxPoint x="11" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="880" as="sourcePoint" />
+            <mxPoint x="120" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-41" value="&lt;div&gt;Update state in db and broadcast&lt;/div&gt;&lt;div&gt;to clients&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1UfZBbdqKV6xbF1u5Tu_-40">
+          <mxGeometry x="-0.7583" relative="1" as="geometry">
+            <mxPoint x="-86" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-44" value="Clients state updated" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="930" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1UfZBbdqKV6xbF1u5Tu_-46" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Button setup&lt;/h1&gt;&lt;div&gt;Destination Button&lt;/div&gt;&lt;div&gt;Sends websocket message&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Server responds with state&lt;/div&gt;&lt;div&gt;listens for button update&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="790" width="180" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
